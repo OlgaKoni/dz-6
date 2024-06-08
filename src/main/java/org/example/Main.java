@@ -15,7 +15,7 @@ public class Main {
             }
 
         ArrayList<String> dogs = new ArrayList<>();
-        dogs.add("small");
+        dogs.add("very small");
         dogs.add("big");
         dogs.add("big");
         dogs.add("midl");
