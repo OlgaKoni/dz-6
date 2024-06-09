@@ -10,11 +10,14 @@ public class Main {
         //for (int i = 0; i < forms.length; i++) {
          //  if (forms[i] == "star") ;
         for (String form : forms){
-            if (form == "square");
+            if (form == "square") {
                 System.out.println(true);
-            if (form == "square"){
-               break;
+            } else {
+                System.out.println(false);
             }
+           // if (form == "square"){
+            //   break;
+           // }
             }
 
         ArrayList<String> dogs = new ArrayList<>();
